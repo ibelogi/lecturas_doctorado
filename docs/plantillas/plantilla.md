@@ -17,16 +17,12 @@ parent: Plantillas
 **Carpeta Zotero:**
 
 **Tags:** 
-
-	- **Región / País del texto:** #AMERICALATINA #ARGENTINA
-
+	- **Región / País del texto:**
 	- **Palabras clave:** 
-
 	- **Clasificación Propia:**
 
-Inicio de lectura:
-
-Fin de lectura:
+	Inicio de lectura:
+	Fin de lectura:
 
 ### Resumen 
 
