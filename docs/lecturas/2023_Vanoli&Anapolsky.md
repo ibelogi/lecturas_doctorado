@@ -1,29 +1,42 @@
 ---
 layout: default
-title: 2023_Anapolsky&Vanoli
-parent: Lecturas
+title: template
+parent: Templates
 ---
 
-
 ## Acceso a Oportunidades en ciudades de América Latina: Metodología para la construcción de indicadores
-Autor: ** Catalina Vanoli y Sebastián Anapolsky **
+
+**Autorx(s):** Catalina Vanoli y Sebastián Anapolsky
+
 **Año:** 2023
+
 **Cita APA:** Vanoli, C., & Anapolsky, S. (2023). Acceso a oportunidades en América Latina. Recuperado de https://cafscioteca.azurewebsites.net/handle/123456789/2003
 **Url:** https://scioteca.caf.com/handle/123456789/2003
+
+**Url:**
+
 **Carpeta Zotero:** Movilidad-Accesibilidad-Transporte
-**Tags:** 
+
+**Tags:**  
 	**Región / País del texto:** #AMERICALATINA #ARGENTINA
 	**Palabras clave:** 
-	**Clasificación Propia:** #ACCESIBILIDAD #MOVILIDAD #METODOLOGÍA
+	**Clasificación Propia:** #ACCESIBILIDAD #METODOLOGÍA #MOVILIDAD 
 
-Inicio de lectura: 2023-03-06
-Fin de lectura: 2023-03-06
+	Inicio de lectura: 06-03-2023
+	Fin de lectura: 06-03-2023
 
 ### Resumen 
 
+Resumen propuesto por autorx(s)
+Resumen y comentarios hechos por lectorx(s)
+
 ### Objetivos
 
+Debe contener los objetivos del texto
+
 ### Metodología
+
+Aquí se debe detallar la metodología desarrollada en el texto
 
 ### Comentarios y observaciones
 
@@ -38,6 +51,11 @@ en el desarrollo de indicadores de accesibilidad es todavía una deuda pendient
 No habla de limitaciones ni sesgos o riesgos al usar esta información.
 
 ### Citas del texto
+
 A grandes rasgos, se define como la facilidad para acce- der a bienes, servicios, actividades y destinos en una ciudad (Litman, 2003). Sin embargo, hay definiciones que encaran el problema desde diferentes perspecti- vas. Algunas hablan de “las oportunidades potencia- les de interacción” (Hansen, 1959); la facilidad con la que se puede acceder a las actividades usando un modo particular de transporte (Dalvi y Martin, 1976); la libertad de los individuos de decidir participar o no de diferentes actividades (Burns, 1979); y los beneficios que produce un determinado sistema de usos de suelo y transporte (Ben-Akiva y Lerman, 1979). El Reporte de Economía y Desarrollo (RED) 2017 de CAF de- fine la accesibilidad como “la capacidad de alcanzar las oportunidades que ofrece la ciudad”, y la consi- dera la medida fundamental de bienestar en las ciuda- des. Además, la accesibilidad urbana se estudia como uno de los factores que afectan el nivel de inclusión y productividad en las aglomeraciones urbanas, y se destaca su importancia en el crecimiento y desarrollo de las ciudades (Hernández y Hansz, 2021).
 
-### Bibliografía citada
+### Bibliografía citada en el texto
+
+Se deben incluir las citas relevantes que será necesario buscar y sumar a la bibliografía y lecturas posteriores. 
+Esta sección servirá para análisis cuantitativos de bibliografía citada. 
+Lista de bibliografía marcada en el texto. 
