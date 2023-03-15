@@ -17,8 +17,11 @@ parent: Templates
 **Carpeta Zotero:**
 
 **Tags:** 
+
 	- **Región / País del texto:** #AMERICALATINA #ARGENTINA
+
 	- **Palabras clave:** 
+
 	- **Clasificación Propia:**
 
 Inicio de lectura:
