@@ -18,6 +18,6 @@ Para este sistema de fichaje se proponen los siguientes pasos:
 4. Incluir fecha de inicio y fin de lectura
 5. Completar los items propuestos según la búsqueda a realizar en el texto
 
-En [template](/docs/template.md) se puede encontrar la plantilla para realizarlo
+En [template](https://ibelogi.github.io/lecturas_doctorado/docs/templates/template.html) se puede encontrar la plantilla para realizarlo
 
 La web tiene un buscador para facilitar futuras búsquedas de textos o palabras clave. 
