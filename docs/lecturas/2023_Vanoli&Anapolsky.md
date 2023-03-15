@@ -1,7 +1,7 @@
 ---
 layout: default
-title: template
-parent: Templates
+title: 2023_Vanoli&Anapolsky
+parent: Lecturas
 ---
 
 ## Acceso a Oportunidades en ciudades de América Latina: Metodología para la construcción de indicadores
