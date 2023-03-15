@@ -1,7 +1,7 @@
 ---
 layout: default
-title: template
-parent: Templates
+title: plantilla
+parent: Plantillas
 ---
 
 # Nombre Articulo/Libro/

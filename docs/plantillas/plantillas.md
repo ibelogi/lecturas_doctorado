@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Templates
+title: Plantillas
 nav_order: 2
 has_children: true
-permalink: /docs/templates
+permalink: /docs/plantillas
 ---
 
 # Templates
