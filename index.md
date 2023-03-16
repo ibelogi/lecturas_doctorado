@@ -10,7 +10,7 @@ Esta es la web para compartir las fichas bibliograficas
 Para este sistema de fichaje se proponen los siguientes pasos: 
 
 1. Agregar etiqueta en Zotero = aaaamm_ignacio para marcar el texto como leído
-2. Completar la ficha del texto, debe contener la cita completa en formato APA y el link o la carpeta para encontrarlo en Zotero.
+2. Completar la ficha del texto, debe contener la cita completa en formato APA y el link o la carpeta para encontrarlo en Zotero. Asegurarse que quede completa la ficha en Zotero.
 3. Completar los tags (#):
 	1. clasificar por región y paìs el texto
 	2. incluir las palabras claves
