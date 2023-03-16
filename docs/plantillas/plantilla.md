@@ -41,7 +41,7 @@ Debe contener los objetivos del texto
 
 Aquí se debe detallar la metodología desarrollada en el texto
 
-### Ideas Principales
+## Ideas Principales
 
 Punteo de las ideas principales del texto
 
