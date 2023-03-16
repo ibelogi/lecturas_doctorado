@@ -41,13 +41,13 @@ Debe contener los objetivos del texto
 
 Aquí se debe detallar la metodología desarrollada en el texto
 
+### Ideas Principales
+
+Punteo de las ideas principales del texto
+
 ## Comentarios y observaciones
 
 En caso de que existan incluir lo observado en el texto.
-
-## Citas del texto
-
-Listado de citas relevantes que pueden ser útiles para los procesos de escritura
 
 ## Bibliografía citada en el texto
 
