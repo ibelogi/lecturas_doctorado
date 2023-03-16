@@ -19,6 +19,6 @@ Para este sistema de fichaje se proponen los siguientes pasos:
 4. Completar los items propuestos en la ficha, que contempla la búsqueda que se hará sobre el contenido del texto
 5. Agregar etiqueta en Zotero = aaaamm_ignacio para marcar el texto como leído
 
-En [template](https://ibelogi.github.io/lecturas_doctorado/docs/templates/template.html) se puede encontrar la plantilla para realizarlo
+En [template](https://ibelogi.github.io/lecturas_doctorado/docs/plantillas/plantilla.html) se puede encontrar la plantilla para realizarlo
 
 La web tiene un buscador para facilitar futuras búsquedas de textos o palabras clave. 
