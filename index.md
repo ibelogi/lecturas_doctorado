@@ -14,7 +14,7 @@ Para este sistema de fichaje se proponen los siguientes pasos:
 	los mismos permitirán realizar filtrados, ya sea en la web o Zotero y a futuro permite relacionar los textos con la misma clasificación. Se optó por 3 clasificaciones:
 	1. clasificación por región y paìs
 	2. si las tiene: palabras clave
-	3. clasificación basado en laa temática
+	3. clasificación basado en la temática
 3. Incluir fecha de inicio y fin de lectura
 4. Completar los items propuestos en la ficha, que contempla la búsqueda que se hará sobre el contenido del texto
 5. Agregar etiqueta en Zotero = aaaamm_ignacio para marcar el texto como leído
