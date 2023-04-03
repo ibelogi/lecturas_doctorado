@@ -1,10 +1,14 @@
----
+	---
 layout: default
 title: 2023_Vanoli&Anapolsky
 parent: Lecturas
 ---
 
-## Acceso a Oportunidades en ciudades de América Latina: Metodología para la construcción de indicadores
+Inicio de lectura: 06-03-2023
+
+Fin de lectura: 06-03-2023
+
+# Acceso a Oportunidades en ciudades de América Latina: Metodología para la construcción de indicadores
 
 **Autorx(s):** Catalina Vanoli y Sebastián Anapolsky
 
@@ -17,14 +21,18 @@ parent: Lecturas
 **Carpeta Zotero:** Movilidad-Accesibilidad-Transporte
 
 **Tags:**  
-	**Región / País del texto:** #AMERICALATINA #ARGENTINA
-	**Palabras clave:** 
-	**Clasificación Propia:** #ACCESIBILIDAD #METODOLOGÍA #MOVILIDAD 
 
-	Inicio de lectura: 06-03-2023
-	Fin de lectura: 06-03-2023
+**Región / País del texto:** #AMERICALATINA #ARGENTINA 
 
-### Resumen 
+**Palabras clave:** 
+
+**Clasificación Propia:** #ACCESIBILIDAD #METODOLOGÍA #MOVILIDAD 
+
+## Datos de autor(x)s
+
+Catalina Vanoli, especialista en transporte y científica de datos trabajando en CAF, y Sebastián Anapolsky, consultor especialista en transporte y ciencia de datos.
+
+## Resumen 
 
 "Las ciudades ofrecen el acceso a oportunidades de diferente tipo a su ciudadanía, como oportunidades de trabajo, de educación y salud, culturales y de recreación. El acceso equitativo y eficiente a estas oportunidades determina el nivel de productividad y calidad de vida en nuestras ciudades. El desarrollo de indicadores de accesibilidad permite mejorar el diseño de las políticas públicas, identificando inversiones e intervenciones urbanas con decisiones basadas en datos.
 
@@ -36,11 +44,11 @@ En la última parte del trabajo, se presenta el caso de estudio de la Región 
 
 La metodología es aplicable a diferentes contextos y puede ser replicable por especialistas técnicos de los gobiernos, la academia o analistas de ciudades. La librería pyomu es de código abierto y se puede acceder en el repositorio de GitHub del OMU. Se buscó que los resultados sean de fácil interpretación para poder ser presentados a autoridades y tomadores de decisión, acentuando la importancia de identificar brechas de acceso y diseñar las corres- pondientes intervenciones basadas en evidencia."
 
-### Objetivos
+## Objetivos
 
 Construcción de un "modelo analítico para definir y calcular indicadores de accesibilidad urbana a centros de actividad y a distintos servicios básicos para distintos niveles socioeconómicos"
 
-### Ideas principales
+## Ideas principales
 
 Definición de accesibilidad:
 "A grandes rasgos, se define como la facilidad para acceder a bienes, servicios, actividades y destinos en una ciudad (Litman, 2003). Sin embargo, hay definiciones que encaran el problema desde diferentes perspectivas. Algunas hablan de “las oportunidades potenciales de interacción” (Hansen, 1959); la facilidad con la que se puede acceder a las actividades usando un modo particular de transporte (Dalvi y Martin, 1976); la libertad de los individuos de decidir participar o no de diferentes actividades (Burns, 1979); y los beneficios que produce un determinado sistema de usos de suelo y transporte (Ben-Akiva y Lerman, 1979). El Reporte de Economía y Desarrollo (RED) 2017 de CAF define la accesibilidad como “la capacidad de alcanzar las oportunidades que ofrece la ciudad”, y la considera la medida fundamental de bienestar en las ciudades. Además, la accesibilidad urbana se estudia como uno de los factores que afectan el nivel de inclusión y productividad en las aglomeraciones urbanas, y se destaca su importancia en el crecimiento y desarrollo de las ciudades (Hernández y Hansz, 2021)."
@@ -50,7 +58,7 @@ Definición de accesibilidad:
 Se basa en los aportes de Hernández y Hansz (2021) en base a Geurs y Ritsema van Eck (2001).
 para detallar que "Los principales componentes que caracterizan la accesibilidad urbana incluyen la ubicación de los hogares, las características socioeconómicas, la forma urbana y distribución de actividades, y el sistema de transporte (ver figura 1)."
 
-### Metodología
+## Metodología
 
 Presenta cuatro perspectivas para abordar la accesibilidad basado en Geurs y van Wee (2004). 
 
@@ -73,7 +81,7 @@ Para ello propone la construcción de 4 indicadores
 Para esto utiliza como fuentes de información secundaria datos publicos de distintos organismos, APIs de Google y Open Street Maps. 
 En el marco de las nuevas tecnologías de información.
 
-### Comentarios y observaciones
+## Comentarios y observaciones
 
 No realiza una crítica negativa o detalla los riesgos y sesgos de las nuevas fuentes de información basadas.
 
@@ -83,8 +91,9 @@ Aclara que en el desarrollo de indicadores de accesibilidad es todavía una deu
 
 ### Links de interés 
 
-https://github.com/OMU-LATAM/
-https://pypi.org/project/pyomu/
+[repositorio con el código](https://github.com/OMU-LATAM/)
+
+[librería creada por autores] (https://pypi.org/project/pyomu/)
 
 "Como ejemplo de un nuevo enfoque de accesibilidad, se encuentra la propuesta del Ins- tituto de Transporte y Políticas de Desarrollo (ITDP), con once indicadores categorizados en tres dimensiones: proximidad al transporte, accesibilidad y características de la ciudad. Para más información, acceder a ITDP Online Indicators: https://naindicators.itdp.org/.""
 

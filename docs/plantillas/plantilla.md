@@ -3,6 +3,7 @@ layout: default
 title: plantilla
 parent: Plantillas
 ---
+
 Inicio de lectura:
 
 Fin de lectura:
@@ -27,6 +28,7 @@ Fin de lectura:
 
 **Clasificación Propia:**
 
+## Datos de autor(x)s
 
 ## Resumen 
 
