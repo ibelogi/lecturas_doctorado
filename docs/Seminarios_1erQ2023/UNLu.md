@@ -1,6 +1,6 @@
 ---
 layout: default
-title: UNS
+title: UNLu
 parent: Seminarios_2023
 --- 
 
