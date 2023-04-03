@@ -1,3 +1,9 @@
+---
+layout: default
+title: UBA
+parent: Seminarios_2023
+---
+
 ## Doctorado en Geografía de FFyLL, UBA
 
 [web](http://posgrado.filo.uba.ar/seminarios-de-doctorado)
