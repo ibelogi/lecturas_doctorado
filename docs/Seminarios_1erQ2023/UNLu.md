@@ -1,3 +1,9 @@
+---
+layout: default
+title: UNS
+parent: Seminarios_2023
+--- 
+
 [web](http://www.espteledeteccionysig.unlu.edu.ar/?q=node/3)
 
 Seminarios de la especialización: 
