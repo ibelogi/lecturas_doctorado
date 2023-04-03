@@ -1,3 +1,9 @@
+---
+layout: default
+title: UNS
+parent: Seminarios_2023
+---
+
 ### Cursos de posgrado
 
 - ~~**GEOTECNOLOGÍAS APLICADAS AL ANÁLISIS DE CUENCAS HIDROGRÁFICAS**
