@@ -3,6 +3,8 @@ layout: default
 title: UNS
 parent: Seminarios_2023
 --- 
+### Doctorado en geografía
+[web](http://www.geografiayturismo.uns.edu.ar/carrera_detalle.php?id=4&idC=25)
 
 ### Cursos de posgrado
 
