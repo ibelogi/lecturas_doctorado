@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Plantillas
+title: Seminarios_2023
 nav_order: 4
 has_children: true
 permalink: /docs/seminarios_2023
