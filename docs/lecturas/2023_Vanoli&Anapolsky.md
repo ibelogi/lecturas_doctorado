@@ -1,4 +1,4 @@
-	---
+---
 layout: default
 title: 2023_Vanoli&Anapolsky
 parent: Lecturas
