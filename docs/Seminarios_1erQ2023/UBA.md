@@ -39,6 +39,8 @@ parent: Seminarios_2023
 	Muchas bibliografía: en las unidades y en la optativa, clásicos. Todos textos previos al 2020. 
 	Repositorio de bibliografia.  
 
+Otros seminarios de la maestria: [link](http://posgrado.filo.uba.ar/plandeestudios-218)
+
 ## Doctorado en Ciencias Sociales
 
 [web](http://www.sociales.uba.ar/posgrados/doctorado/#Seminarios)
