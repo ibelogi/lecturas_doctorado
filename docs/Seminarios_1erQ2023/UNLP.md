@@ -6,6 +6,8 @@ parent: Seminarios_2023
 
 ## Doctorado en geografía 
 
+Ya incorporado en la lista de difusión
+
 [web](https://www.fahce.unlp.edu.ar/facultad/secretarias-y-prosecretarias/posgrado/doctorado/doctorado-en-geografia/cursos-y-seminarios)
 
 Por el momento, existe 1 solo curso abierto y el resto finaliados.

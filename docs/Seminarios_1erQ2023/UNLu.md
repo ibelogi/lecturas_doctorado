@@ -6,6 +6,8 @@ parent: Seminarios_2023
 
 ## Doctorado en Ciencias Sociales y Humanas
 
+Ya incorporado en la lista de difusión
+
 [web_doctorado](https://www.unlu.edu.ar/carp-docunlu.html)
 
 No contiene info o web propia con la oferta de seminarios. Consultar vía mail. 
