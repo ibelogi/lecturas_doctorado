@@ -41,6 +41,15 @@ parent: Seminarios_2023
 
 Otros seminarios de la maestria: [link](http://posgrado.filo.uba.ar/plandeestudios-218)
 
+- **# Estado, economía y formación territorial en el contexto del proceso de reestructuración capitalista** [link](http://posgrado.filo.uba.ar/estado-econom%C3%ADa-y-formaci%C3%B3n-territorial-en-el-contexto-del-proceso-de-reestructuraci%C3%B3n-capitalista-3)
+	**Docentes:** Ciccolela, Vecslir y Fernandez 
+	
+	Del 30 de marzo al 29 de junio. Modalidad de cursada: Presencialidad remota. Se ofrecerán 12 clases sincrónicas obligatorias semanales de 3 horas cada una, que se completarán con materiales tales como videos, Power-Point y bibliografía que será subida al Campus Virtual. Los jueves de 18 a 21 hs. 
+	
+	No se aceptan estudiantes externos.
+	
+	[Programa](http://posgrado.filo.uba.ar/sites/posgrado.filo.uba.ar/files/PROGRAMA%20SEM%20MPAYT%202023.pdf)
+
 ## Doctorado en Ciencias Sociales
 
 [web](http://www.sociales.uba.ar/posgrados/doctorado/#Seminarios)
