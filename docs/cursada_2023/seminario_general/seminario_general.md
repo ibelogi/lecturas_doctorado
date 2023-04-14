@@ -1,7 +1,7 @@
 ---
 layout: default
 title: seminario_general
-nav_order: 7
+parent: Cursada_2023
 has_children: true
 ---
 

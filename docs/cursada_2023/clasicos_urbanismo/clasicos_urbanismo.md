@@ -1,7 +1,7 @@
 ---
 layout: default
 title: clasicos_urbanismo
-nav_order: 6
+parent: Cursada_2023
 has_children: true
 ---
 

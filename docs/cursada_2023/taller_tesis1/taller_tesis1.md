@@ -1,7 +1,7 @@
 ---
 layout: default
 title: taller_tesis1
-nav_order: 8
+parent: Cursada_2023
 has_children: true
 ---
 
