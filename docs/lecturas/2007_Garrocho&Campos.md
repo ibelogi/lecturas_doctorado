@@ -6,7 +6,7 @@ parent: Lecturas
 
 Inicio de lectura: 12/04/2023
 
-Fin de lectura:
+Fin de lectura: 12/04/2023
 
 # Dinámica de la estructura policéntrica del empleo terciario en el área metropolitana de Toluca, 1994-2004
 
