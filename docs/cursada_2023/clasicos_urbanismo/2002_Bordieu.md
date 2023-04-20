@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 2002_Bordieu
-parent: clasicos_urbanismo
+parent: Cursada_2023
 ---
 
 Inicio de lectura: 2023-04-19
