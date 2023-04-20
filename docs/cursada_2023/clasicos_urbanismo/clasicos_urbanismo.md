@@ -1,6 +1,7 @@
 ---
 layout: default
 title: clasicos_urbanismo
+has_children: True
 parent: Cursada_2023
 ---
 
@@ -11,6 +12,4 @@ Graciela Favelukes y Alicia Novick
 
 [Programa](docs/cursada_2023/clasicos_urbanismo/DEU_Lecturas_1-Programa_2023-VF.pdf)
 
-```xml
-<object data="{{ site.url }}{{ site.baseurl }}/clasicos_urbanismo/DEU_Lecturas_1-Programa_2023-VF.pdf" width="1000" height="1000" type="application/pdf"></object>
-```
+<embed src="https://github.com/ibelogi/lecturas_doctorado/blob/main/docs/cursada_2023/clasicos_urbanismo/DEU_Lecturas_1-Programa_2023-VF.pdf" type="application/pdf"/>
