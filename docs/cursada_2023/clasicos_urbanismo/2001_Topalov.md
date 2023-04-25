@@ -32,9 +32,6 @@ Fin de lectura: 2023-04-20
 
 ## Resumen 
 
-```
-<div style="text-align: justify">
-
 Da cuenta de como el análisis metodico de las condiciones de la produccion y de la sucesiva recepcion de los libros permite el resguardo y lucha contra el anacronismo propio de la lectura de trabajos antiguos. El seguimiento de la recepción, migraciones, traducciones, permite formular preguntas sobre las modalidades de fabricacion y renovacion de las tradiciones academicas. 
 
 Se trata de retrazar la genesis del libro a los efectos de despojarlo de las glosas (comentarios añadidos para entender un texto complejo) que lo sobrecargan restituyendo así las preguntas y el programa de su autor.
@@ -54,8 +51,5 @@ Esta perspectiva permite tambien retornar a las investigaciones propias de maner
 Gimnasia que lleva a abordar las practicas de la ciencia de hoy en dia de la misma manera que las del ayer. 
 
 "“engendra los hábitos del espíritu que convienen a nuestra iniciativa, nos pone en condición de reconocer los límites de nuestros propios esquemas”(Henrika Kuklick), invitando a una práctica modesta de las ciencias sociales. Es además un medio para debilitar uno de los obstáculos más sólidos de la reflexividad: el discurso anacrónico sobre el pasado de los saberes."
-<div/>
-```
-
 
 ## Comentarios y observaciones
