@@ -2,7 +2,6 @@
 layout: default
 title: clasicos_urbanismo
 has_children: True
-parent: Cursada_2023
 ---
 
 # Cursada de la materia "Los clásicos del urbanismo"
