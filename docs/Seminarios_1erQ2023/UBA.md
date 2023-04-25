@@ -137,3 +137,49 @@ Desarrollo del período de cursada **02-10-23** al **30-11-23**
 	**Áreas:** Territorio y ambiente / Población y estructura social / Gobierno y políticas públicas
 	
 	Seminario General (32 horas) 
+
+## UBA - FADU
+
+### Seminarios de doctorado en Arquitectura / Diseño / Urbanismo
+[web del doctorado](https://www.fadu.uba.ar/categoria/34-doctorado)
+[link de ofertas](https://drive.google.com/file/d/1IhEhoqOJ9Q3WMDaFWr9AZi6FVPu44F9-/view)
+
+- **Ciudad y Urbanismo: de la cuestión urbana a la cuestión ambiental. Relaciones entre el origen y las transformaciones de los asentamientos urbanos y la constitución y derivas de la actuación profesional sobre los mismos.**
+	Corpus: Producción y Transmisión de conocimientos
+	Carga horaria: 16 hs / 1 crédito
+	Profesor: Dr. David Kullock
+	Días: lunes 5, 12 y 26 de junio y lunes 3 de julio
+	Horario: 9 a 13 hs por plataforma virtual
+	Fecha límite entrega de trabajo final: 26/09/2023
+	Fecha límite devolución evaluaciones: 26/12/2023
+	[Programa](https://drive.google.com/file/d/1GltxXGHAA9p-dDc918lFw93cHa_xWqVl/view)
+
+### Maestría en planificación y movilidad urbana
+[web de la maestria](https://www.fadu.uba.ar/post/1151-67-planificacin-y-movilidad-urbana-maestra-uba-con-participacin-fadu)
+
+[maestria](https://www.uba.ar/posgrados/noticia.php?id=202)
+
+[info del posgrado](https://www.uba.ar/posgrados/archivos/MAE-PLANFICACION-Y-MOVILIDAD-URBANA.pdf)
+
+### PLAN DE ESTUDIOS  
+Primer año:  
+Proyecto I. Escala urbana. Modos de transporte y comportamiento de movilidad. Optativa–idioma.  
+Electiva 1.  
+Proyecto II. Escala metropolitana. Teorías de la movilidad urbana. Planificación integrada de transporte. Electiva 2.  
+Segundo año:  
+Proyecto III. Escala regional. Procesos de la planificación territorial. Procesos globales de movilidad.
+Electiva 3. Electiva 4. Electiva 5.  
+Seminarios y talleres para la preparación de la tesis  
+
+Electivas  
+Oferta de asignaturas electivas a dictarse en la Universidad de Buenos Aires (UBA). Además:
+Movilidad metropolitana: Berlín. 
+Movilidad metropolitana: Buenos Aires. 
+Infraestructura de transporte y ciudad. 
+Logística y transporte de cargas. 
+Marco interjurisdiccional de regulación. 
+Modelos de  transporte. 
+Metodología para el manejo de información. 
+Gestión de movilidad.  
+La Universidad Técnica de Berlín (TUB) también ofrece una gran cantidad de seminarios para cursar  
+(oferta académica de la maestría de la Universidad Técnica de Berlín (TUB) denominada “Planificación Urbana y Regional” y de los módulos de Habitat Unit).
