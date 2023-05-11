@@ -1,20 +1,20 @@
 ---
 layout: default
-title: 2005_chabard
+title: 1938_Mumford
 parent: clasicos_urbanismo
 ---
 
-Inicio de lectura: 25/04/2023
+Inicio de lectura: 11/05/2023
 
-Fin de lectura: 25/04/2023
+Fin de lectura: 
 
-# Comment un livre change: Cities in Evolution et les usages de Patrick Geddes (1912-1972)
+# Introducción
 
-**Autorx(s):** Chabard P
+**Autorx(s):** Lewis Mumford
 
-**Año:** 2005
+**Año:** 1938
 
-**Cita APA:** Chabard, P. (2005). Comment un livre change : Cities in Evolution et les usages de Patrick Geddes (1912-1972). _Genèses_, no<(sup> 60), 76-97. [https://doi.org/10.3917/gen.060.0076](https://doi.org/10.3917/gen.060.0076)
+**Cita APA:** 
 
 **Url:**
 

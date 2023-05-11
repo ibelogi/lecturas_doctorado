@@ -30,7 +30,7 @@ parent: Seminarios_2023
 	**Docentes:** Gutierrez, Andrea / Pizarro Gariazzo, Andrés.
 	**Àreas:** Movilidad y Transporte
 	
-	[Programa](http://posgrado.filo.uba.ar/sites/posgrado.filo.uba.ar/files/Politicas%20de%20Transporte%20y%20Territorio%20-%202023.pdf) #BIBLIOGRAFÍA 
+	[Programa](http://posgrado.filo.uba.ar/sites/posgrado.filo.uba.ar/files/Politicas%20de%20Transporte%20y%20Territorio%20-%202023.pdf) 
 	
 	**Fecha de inicio:** 05/07/2023. Del 5 al 21 de julio de 2023. 32hs. Se dictarán 6 clases de manera remota y sincrónica de asistencia obligatoria los días miércoles y viernes de 18 a 20 hs.
 	
