@@ -1,0 +1,192 @@
+{
+  "main": {
+    "id": "4561d20612634c76",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8315fa79333ab7c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be6b7f6beaab5907",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/lecturas/2018_Yomal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b295f733fa7ae2d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Seminarios_2023/UNC.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bab399600b42da1c",
+    "type": "split",
+    "children": [
+      {
+        "id": "057c637bff206b17",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc6ddce1c926bda",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4a8365fcbc2f0635",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "fd92412ddaecd583",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "b216c7c9bb7ae51b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6e3243aec3384559",
+    "type": "split",
+    "children": [
+      {
+        "id": "faafd4782eb1dd31",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "896f4cc43b328663",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/Seminarios_2023/UNC.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "75772d768753659a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/Seminarios_2023/UNC.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "951961b9f3be8176",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "38fbd46855dd1d0e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/Seminarios_2023/UNC.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b295f733fa7ae2d3",
+  "lastOpenFiles": [
+    "docs/Seminarios_2023/UBA.md",
+    "docs/Seminarios_2023/UNC.md",
+    "docs/Seminarios_2023/UNCUYO.md",
+    "docs/Seminarios_2023/UNGS.md",
+    "docs/Seminarios_2023/UNLP.md",
+    "docs/Seminarios_2023/UNS.md",
+    "docs/Seminarios_2023/UNSAJ.md",
+    "docs/Seminarios_2023/UNLu.md",
+    "docs/Seminarios_2023/seminarios_2023.md",
+    "docs/Seminarios_2023/GULICH.md",
+    "docs/Seminarios_2023/FLACSO.md",
+    "docs/lecturas/2007_Garrocho&Campos.md",
+    "docs/lecturas/2018_Yomal.md",
+    "src/translate_mumford.ipynb",
+    "src/translate_chabard.ipynb",
+    "docs/cursada_2023/taller_tesis1/2006_JimenezBecerra.md",
+    "docs/cursada_2023/taller_tesis1/2006_Carrillo&JimenezBecerra.md",
+    "docs/cursada_2023/clasicos_urbanismo/1938_Mumford.md",
+    "docs/cursada_2023/clasicos_urbanismo/2001_Topalov.md"
+  ]
+}

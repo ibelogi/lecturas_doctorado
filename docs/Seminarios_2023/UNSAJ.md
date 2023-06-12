@@ -10,5 +10,5 @@ parent: Seminarios_2023
 ## Doctorado en Ciencias Sociales
 [web](http://doctoradosociales.blogspot.com/)
 
-## Doctorado en Arquitectura y Urbanismo
+## Doctorado en Arquitectura y Urbanismo
 [web](http://www.faud.unsj.edu.ar/posgrado/carrera/15-doctorado-en-arquitectura-y-urbanismo/)
