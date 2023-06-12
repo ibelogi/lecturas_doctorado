@@ -45,3 +45,6 @@ partir de Topalov y Bourdieu, pueden ponerse en relación con aspectos o segmen
 ## Exploración 
 
 Exploración acerca de los modos de escritura y organización del texto (subtítulos, parágrafos, ilustraciones, notas, bibliografía...), y de sus maneras de poner en evidencia sus diálogos y discusiones con otros autores o actores. Esto sirve, por ejemplo, para ponderar las redes intelectuales.
+
+pp 163
+"Su forma está condicionada por la topografía y la naturaleza de la tierra."
