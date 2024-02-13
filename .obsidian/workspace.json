@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a8315fa79333ab7c",
+        "id": "a483a9eb61f79c61",
         "type": "tabs",
         "children": [
           {
-            "id": "be6b7f6beaab5907",
+            "id": "67562a7c7cb45985",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lecturas/2018_Yomal.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b295f733fa7ae2d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Seminarios_2023/UNC.md",
+                "file": "docs/lecturas/1972_Lefebvre.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Seminarios_2023/UNC.md",
+                "file": "docs/lecturas/1972_Lefebvre.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Seminarios_2023/UNC.md",
+                "file": "docs/lecturas/1972_Lefebvre.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Seminarios_2023/UNC.md"
+                "file": "docs/lecturas/1972_Lefebvre.md"
               }
             }
           }
@@ -167,10 +154,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b295f733fa7ae2d3",
+  "active": "4bc6ddce1c926bda",
   "lastOpenFiles": [
-    "docs/Seminarios_2023/UBA.md",
+    "docs/lecturas/2018_Yomal.md",
+    "docs/lecturas/1972_Lefebvre.md",
+    "docs/plantillas/plantilla.md",
+    "docs/lecturas/lectura.md",
+    "docs/lecturas/2007_Garrocho&Campos.md",
+    "docs/Untitled.md",
+    "docs/lecturas/2023_Vanoli&Anapolsky.md",
+    "docs/Seminarios_2023/FLACSO.md",
+    "docs/Seminarios_2023/GULICH.md",
     "docs/Seminarios_2023/UNC.md",
+    "docs/Seminarios_2023/UBA.md",
     "docs/Seminarios_2023/UNCUYO.md",
     "docs/Seminarios_2023/UNGS.md",
     "docs/Seminarios_2023/UNLP.md",
@@ -178,10 +174,6 @@
     "docs/Seminarios_2023/UNSAJ.md",
     "docs/Seminarios_2023/UNLu.md",
     "docs/Seminarios_2023/seminarios_2023.md",
-    "docs/Seminarios_2023/GULICH.md",
-    "docs/Seminarios_2023/FLACSO.md",
-    "docs/lecturas/2007_Garrocho&Campos.md",
-    "docs/lecturas/2018_Yomal.md",
     "src/translate_mumford.ipynb",
     "src/translate_chabard.ipynb",
     "docs/cursada_2023/taller_tesis1/2006_JimenezBecerra.md",
