@@ -69,7 +69,7 @@ Presenta cuatro perspectivas para abordar la accesibilidad basado en Geurs y van
 
 El trabajo de Vanoli & Anapolsky (2023) busca incluir:
 1. la oferta que brinda la infraestructura
-2. 2. la distribución espacial de las actividades
+2. la distribución espacial de las actividades
 3. ciertas características a nivel individual.
 
 Para ello propone la construcción de 4 indicadores
