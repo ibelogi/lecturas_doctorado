@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/lecturas/1972_Lefebvre.md",
+                "file": "docs/Seminarios_2023/UNCUYO.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/lecturas/1972_Lefebvre.md",
+                "file": "docs/Seminarios_2023/UNCUYO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/lecturas/1972_Lefebvre.md",
+                "file": "docs/Seminarios_2023/UNCUYO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/lecturas/1972_Lefebvre.md"
+                "file": "docs/Seminarios_2023/UNCUYO.md"
               }
             }
           }
@@ -154,26 +154,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4bc6ddce1c926bda",
+  "active": "67562a7c7cb45985",
   "lastOpenFiles": [
-    "docs/lecturas/2018_Yomal.md",
+    "docs/Seminarios_2023/UNLP.md",
+    "docs/Seminarios_2023/UNGS.md",
+    "docs/Seminarios_2023/UNLu.md",
+    "docs/Seminarios_2023/UNS.md",
+    "docs/Seminarios_2024/UBA 1.md",
+    "docs/Seminarios_2024/GULICH.md",
+    "docs/Seminarios_2024/seminarios_2024.md",
+    "docs/Seminarios_2024/UNQ.md",
+    "docs/Seminarios_2023/UBA.md",
+    "docs/Seminarios_2023/seminarios_2023.md",
+    "docs/Seminarios_2023/GULICH.md",
+    "docs/Seminarios_2023/FLACSO.md",
     "docs/lecturas/1972_Lefebvre.md",
+    "docs/Seminarios_2024",
+    "docs/lecturas/2018_Yomal.md",
     "docs/plantillas/plantilla.md",
     "docs/lecturas/lectura.md",
     "docs/lecturas/2007_Garrocho&Campos.md",
     "docs/Untitled.md",
     "docs/lecturas/2023_Vanoli&Anapolsky.md",
-    "docs/Seminarios_2023/FLACSO.md",
-    "docs/Seminarios_2023/GULICH.md",
     "docs/Seminarios_2023/UNC.md",
-    "docs/Seminarios_2023/UBA.md",
     "docs/Seminarios_2023/UNCUYO.md",
-    "docs/Seminarios_2023/UNGS.md",
-    "docs/Seminarios_2023/UNLP.md",
-    "docs/Seminarios_2023/UNS.md",
     "docs/Seminarios_2023/UNSAJ.md",
-    "docs/Seminarios_2023/UNLu.md",
-    "docs/Seminarios_2023/seminarios_2023.md",
     "src/translate_mumford.ipynb",
     "src/translate_chabard.ipynb",
     "docs/cursada_2023/taller_tesis1/2006_JimenezBecerra.md",

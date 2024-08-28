@@ -34,44 +34,41 @@ Otros seminarios de la maestria: [link](http://posgrado.filo.uba.ar/plandeestudi
 ## Doctorado en Ciencias Sociales
 
 [web](http://www.sociales.uba.ar/posgrados/doctorado/#Seminarios)
-
+[programas](https://drive.google.com/drive/folders/1Qukr15hMbDZlssVu5iweK9xBgg7Za5MD)
 ### Primer Bimestre
 
 ### Segundo Bimestre
 
+Las desigualdades sociales hoy. Hacia una actualización de los debates en Argentina y América Latina
 ### Tercer Bimestre
 
+Aplicaciones metodológicas cuantitativas al estudio de la desigualdad, la estructura social y la pobreza
+Santiago Poy y Jésica Plá
+
+Comprender la vida urbana desde el giro de la movilidad: territorios circulatorios y formas de practicar el espacio en América Latina
+Mercedes Di Virgilio y Mariela Diáz
 ### Cuarto bimestre
-Publicación de la oferta e inscripción a seminarios **21-08-23** al **01-09-23**  
-Confirmación de vacantes **11-09-23** al **15-09-23**  
-Desarrollo del período de cursada **02-10-23** al **30-11-23**
 
-- **La dimensión espacial de los procesos sociales: desigualdades territoriales y la producción social de la ciudad**
-	
-	**Docentes:** Brikman, Denise Yael / Najman, Mercedes Analia. 
-	
-	[Programa](https://drive.google.com/file/d/1RDABuKUPwyc17OBEg1a42Weifnb6AOuW/view)
-	
-	**Áreas:** Territorio y ambiente / Población y estructura social / Gobierno y políticas públicas
-	
-	Seminario General (32 horas) 
-
-- **Introducción a las Ciencias Sociales Computacionales**
-	
-	**Docentes:** Elbert, Rodolfo / Perez, Juan Manuel. 
-	
-	[Programa](https://drive.google.com/drive/folders/1T1kOlryky2U26Xu3fyDWvgnzDJSJLLMy)
-	
-	**Áreas:** Epistemología y metodología / Población y estructura social / Conflicto y movimientos sociales
-	
-	Seminario específico (16 horas)
-
+Políticas Sociales Urbanas
+Daniela Soldano
 
 ## UBA - FADU
 
 ### Seminarios de doctorado en Arquitectura / Diseño / Urbanismo
 [web del doctorado](https://www.fadu.uba.ar/categoria/34-doctorado)
 [link de ofertas](https://drive.google.com/file/d/1IhEhoqOJ9Q3WMDaFWr9AZi6FVPu44F9-/view)
+
+INICIA EN AGOSTO 2023
+- **El espacio estatal y la lógica geográfica del capitalismo avanzado. Actores, escalas,
+estrategias y conflictos en la producción de los territorios**
+	Corpus: Teoría Proyectual
+	Carga horaria: 24 hs / 1,5 créditos
+	Profesor: Dr. Santiago Petrocelli  [CV](https://drive.google.com/file/d/1DPu4nlmA_ED0Ae2L9vMTogk3mytGF6dv/view)
+	Días: martes 1, 8, 15, 22 y 29 de agosto y martes 5 de septiembre
+	Horario: 14 a 18 hs por plataforma virtual
+	Fecha límite entrega de trabajo final: 01/12/2023
+	Fecha límite devolución evaluaciones: 27/02/2024
+	[Programa](https://drive.google.com/file/d/1DdUGq0WJXB4E4BPNvO_2g4m0w5qDUiZv/view)
 
 ## Maestría en planificación y movilidad urbana
 [web de la maestria](https://www.fadu.uba.ar/post/1151-67-planificacin-y-movilidad-urbana-maestra-uba-con-participacin-fadu)
